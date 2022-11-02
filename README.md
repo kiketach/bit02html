@@ -1,4 +1,4 @@
 # bit02html
-## *Welcome to my second repository*
+## *Repo sobre pedido acerca de un sitio de recetas*
 ### Contact me:
 [Enrique Abril C](https://www.instagram.com/enriqueabrilc/)
